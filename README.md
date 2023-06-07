@@ -1,9 +1,9 @@
-*
-Navigation and Routing;
-createContext;
-Hooks: useState, useEffect, useRef, useReducer and custom made hooks (useNavigation, useSort);
-eventHandler: Target, Capture, Bubble;
-*
+
+Navigation and Routing; <br/>
+createContext; <br/>
+Hooks: useState, useEffect, useRef, useReducer and custom made hooks (useNavigation, useSort); <br/>
+eventHandler: Target, Capture, Bubble; <br/>
+
 
 
 # Getting Started with Create React App
