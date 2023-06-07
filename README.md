@@ -1,9 +1,9 @@
-
-Navigation and Routing; <br/>
+<h1><strong> Development Techniques: </strong></h1>
+<h3> Navigation and Routing; <br/>
 createContext, createPortal; <br/>
 Hooks: useState, useEffect, useRef, useReducer and custom made hooks (use-navigation, use-sort); <br/>
 eventHandler: Target, Capture, Bubble; <br/>
-libraries: TailwindCSS, react-icons, classNames, prop-types; <br/>
+libraries: TailwindCSS, react-icons, classNames, prop-types; <br/> </h3>
 
 
 
