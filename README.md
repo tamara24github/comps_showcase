@@ -3,7 +3,7 @@ Navigation and Routing; <br/>
 createContext, createPortal; <br/>
 Hooks: useState, useEffect, useRef, useReducer and custom made hooks (use-navigation, use-sort); <br/>
 eventHandler: Target, Capture, Bubble; <br/>
-libraries: TailwindCSS, react-icons, classNames; <br/>
+libraries: TailwindCSS, react-icons, classNames, prop-types; <br/>
 
 
 
