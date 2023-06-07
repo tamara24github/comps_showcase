@@ -1,8 +1,9 @@
 
 Navigation and Routing; <br/>
-createContext; <br/>
-Hooks: useState, useEffect, useRef, useReducer and custom made hooks (useNavigation, useSort); <br/>
+createContext, createPortal; <br/>
+Hooks: useState, useEffect, useRef, useReducer and custom made hooks (use-navigation, use-sort); <br/>
 eventHandler: Target, Capture, Bubble; <br/>
+libraries: TailwindCSS, react-icons, classNames; <br/>
 
 
 
