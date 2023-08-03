@@ -15,17 +15,11 @@ function Accordion({items}){
         }
     });
 
-    
-    if (expandedIndex === index){
-        setExpandedIndex(-1)
-    }else
-    setExpandedIndex(index)
-   }
 
     const renderedItems = items.map((item, index)=>{
         const isExpanded = index === expandedIndex;
 
-        const icon = <span className = "text-xl">
+        const icon = <span className = "text-2xl">
             {isExpanded ? <GoChevronDown/> : <GoChevronLeft/>}
         </span>
         
